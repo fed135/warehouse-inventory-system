@@ -108,8 +108,7 @@
                      <span class="input-group-addon">
                        <i class="glyphicon glyphicon-usd"></i>
                      </span>
-                     <input type="number" class="form-control" name="buying-price" placeholder="Buying Price">
-                     <span class="input-group-addon">.00</span>
+                     <input class="form-control" name="buying-price" placeholder="Buy">
                   </div>
                  </div>
                   <div class="col-md-4">
@@ -117,8 +116,7 @@
                       <span class="input-group-addon">
                         <i class="glyphicon glyphicon-usd"></i>
                       </span>
-                      <input type="number" class="form-control" name="saleing-price" placeholder="Selling Price">
-                      <span class="input-group-addon">.00</span>
+                      <input class="form-control" name="saleing-price" placeholder="Sell">
                    </div>
                   </div>
                </div>
